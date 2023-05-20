@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<test name="Admin_EditDate">
+		<parameter name="author" value="Dipali" />
+		<classes>
+
+			<class name="All_TestClasses.TestAdmin_EditDate" />
+		</classes>
+
+	</test> <!-- Test -->
+
+	<test name="Edit_the_ReservationSlot">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class name="All_TestClasses.TestAdmin_Edit_ReservationSlot" />
+		</classes>
+
+	</test> <!-- Test -->
+
+
+	<test name="EditAddon_MakePay_via_SaveCard">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class
+				name="All_TestClasses.TestAdmin_EditAddon_with_Savecard_Info" />
+		</classes>
+
+	</test> <!-- Test -->
+
+
+	<test name="Edit_Item_MakePay_via_SaveCard">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class
+				name="All_TestClasses.TestAdmin_EditItem_with_Savecard_Info2" />
+		</classes>
+
+	</test> <!-- Test -->
+
+
+	<test name="Admin_EditTime_CreateNewBooking">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class
+				name="All_TestClasses.TestAdmin_EditTime_CreateNewBooking" />
+
+		</classes>
+
+	</test> <!-- Test -->
+
+	<test name="Admin_Edit_UpdateTime">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class name="All_TestClasses.TestAdmin_EditTime_UpdateSameTime" />
+		</classes>
+
+	</test> <!-- Test -->
+
+
+
+	<test name="Admin_EditLane">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class name="All_TestClasses.TestAdmin_EditLane" />
+		</classes>
+
+	</test> <!-- Test -->
+
+
+
+	<test name="Create_Booking_CellClick_Payvia_Cash">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class name="All_TestClasses.TestCreate_Booking_paymentViaCash" />
+		</classes>
+
+	</test> <!-- Test -->
+
+	<test name="Create_Booking_PayviaEmail">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class name="All_TestClasses.TestCreate_Booking_payViaEmail" />
+		</classes>
+
+	</test> <!-- Test -->
+
+	<test name="Create_Booking_pay_ViaCard">
+		<parameter name="author" value="Dipali" />
+		<classes>
+			<class name="All_TestClasses.TestCreate_Booking_paymentCard" />
+		</classes>
+
+</test> <!-- Test -->
+
+
+
+
+
+
+
+
+
+
+
+		<test name="Create_Multiple_Bookings">
+			<parameter name="author" value="Dipali" />
+			<classes>
+				<class name="All_TestClasses.TestCreate_Multiple_Booking" />
+			</classes>
+		</test> <!-- Test -->
+
+		<test name="Update_Time_From_Traffic">
+			<parameter name="author" value="Dipali" />
+			<classes>
+				<class name="All_TestClasses.Test_EditTime_FromTraffic" />
+			</classes>
+		</test> <!-- Test -->
+
+		<test name="Update_Lane_From_Traffic">
+			<parameter name="author" value="Dipali" />
+			<classes>
+				<class name="All_TestClasses.Test_EditLane_FromTraffic" />
+			</classes>
+
+		</test> <!-- Test -->
+
+
+
+
+
+
+
+
+
+
+</suite> <!-- Suite -->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Edit_Item_MakePay_via_SaveCard(failed)" verbose="0">
+    <parameter name="author" value="Dipali"/>
+    <classes>
+      <class name="All_TestClasses.TestAdmin_EditItem_with_Savecard_Info2">
+        <methods>
+          <include name="Edit_Item_MakePay_via_SaveCard"/>
+          <include name="Open_Brouser"/>
+          <include name="Login"/>
+          <include name="teardown"/>
+          <include name="checkStatus"/>
+          <include name="initialiseExtentReports"/>
+          <include name="generateExtentReports"/>
+        </methods>
+      </class> <!-- All_TestClasses.TestAdmin_EditItem_with_Savecard_Info2 -->
+    </classes>
+  </test> <!-- Edit_Item_MakePay_via_SaveCard(failed) -->
+</suite> <!-- Failed suite [Suite] -->

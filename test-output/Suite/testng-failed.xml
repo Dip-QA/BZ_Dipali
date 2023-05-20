@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Admin_Edit_UpdateTime(failed)">
+    <parameter name="author" value="Dipali"/>
+    <classes>
+      <class name="All_TestClasses.TestAdmin_EditTime_UpdateSameTime">
+        <methods>
+          <include name="Admin_Edit_UpdateTime"/>
+          <include name="initialiseExtentReports"/>
+          <include name="teardown"/>
+          <include name="Open_Brouser"/>
+          <include name="Login"/>
+          <include name="checkStatus"/>
+          <include name="generateExtentReports"/>
+        </methods>
+      </class> <!-- All_TestClasses.TestAdmin_EditTime_UpdateSameTime -->
+    </classes>
+  </test> <!-- Admin_Edit_UpdateTime(failed) -->
+  <test thread-count="5" name="Admin_EditLane(failed)">
+    <parameter name="author" value="Dipali"/>
+    <classes>
+      <class name="All_TestClasses.TestAdmin_EditLane">
+        <methods>
+          <include name="Login"/>
+          <include name="initialiseExtentReports"/>
+          <include name="teardown"/>
+          <include name="Open_Brouser"/>
+          <include name="Admin_EditLane"/>
+          <include name="checkStatus"/>
+          <include name="generateExtentReports"/>
+        </methods>
+      </class> <!-- All_TestClasses.TestAdmin_EditLane -->
+    </classes>
+  </test> <!-- Admin_EditLane(failed) -->
+</suite> <!-- Failed suite [Suite] -->

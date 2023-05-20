@@ -1,0 +1,1010 @@
+02:58:40.625 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+02:58:58.872 [main] INFO  TestCreate_Booking_paymentViaCash - Login credentials are entered...!
+02:59:03.283 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calendar button...!
+03:00:14.546 [main] INFO  TestCreate_Booking_paymentViaCash - Outlet selected...!
+03:00:39.486 [main] INFO  TestCreate_Booking_paymentViaCash - User information are entered...!
+03:00:46.659 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calander cell...!
+03:00:54.890 [main] INFO  TestCreate_Booking_paymentViaCash - Date selected for booking...!
+03:01:00.646 [main] INFO  TestCreate_Booking_paymentViaCash - Enable Package type plan selected for booking...!
+03:01:19.597 [main] INFO  TestCreate_Booking_paymentViaCash - Package and additional guests are selected...!
+03:01:25.005 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on proceed to pay button...!
+03:01:37.645 [main] INFO  TestCreate_Booking_paymentViaCash - Pay via Cash option selected for payment...!
+03:01:42.981 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on payment Received check box...!
+03:01:47.656 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on Confirm Button...!
+03:01:49.164 [main] INFO  TestCreate_Booking_paymentViaCash - Booking is successfull by cash payment...!
+03:01:50.066 [main] INFO  A_Base_Class - Browser closed...!
+03:02:05.119 [main] INFO  TestCreate_Booking_payViaEmail - Browser Opened...!
+03:02:23.562 [main] INFO  TestCreate_Booking_payViaEmail - Login credentials are entered...!
+03:02:28.762 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on calendar button...!
+03:03:29.915 [main] INFO  A_Base_Class - Browser closed...!
+03:03:43.487 [main] INFO  TestCreate_Booking_paymentCard - Browser Opened...!
+03:04:01.387 [main] INFO  TestCreate_Booking_paymentCard - Login credentials are entered...!
+03:04:05.037 [main] INFO  TestCreate_Booking_paymentCard - Clicked on calendar button...!
+03:04:26.004 [main] INFO  TestCreate_Booking_paymentCard - Outlet selected...!
+03:04:44.351 [main] INFO  TestCreate_Booking_paymentCard - User information are entered...!
+03:04:50.151 [main] INFO  TestCreate_Booking_paymentCard - Clicked on create reservation button...!
+03:04:58.015 [main] INFO  TestCreate_Booking_paymentCard - Date selected for booking...!
+03:05:07.081 [main] INFO  TestCreate_Booking_paymentCard - Enable Package type plan selected for booking...!
+03:25:22.163 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+03:25:41.057 [main] INFO  TestCreate_Booking_paymentViaCash - Login credentials are entered...!
+03:25:44.552 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calendar button...!
+03:26:55.787 [main] INFO  TestCreate_Booking_paymentViaCash - Outlet selected...!
+03:27:21.364 [main] INFO  TestCreate_Booking_paymentViaCash - User information are entered...!
+03:27:28.783 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calander cell...!
+03:27:37.359 [main] INFO  TestCreate_Booking_paymentViaCash - Date selected for booking...!
+03:27:43.237 [main] INFO  TestCreate_Booking_paymentViaCash - Enable Package type plan selected for booking...!
+03:28:02.531 [main] INFO  TestCreate_Booking_paymentViaCash - Package and additional guests are selected...!
+03:28:07.992 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on proceed to pay button...!
+03:28:20.330 [main] INFO  TestCreate_Booking_paymentViaCash - Pay via Cash option selected for payment...!
+03:28:25.707 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on payment Received check box...!
+03:28:30.496 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on Confirm Button...!
+03:28:32.213 [main] INFO  TestCreate_Booking_paymentViaCash - Booking is successfull by cash payment...!
+03:28:33.598 [main] INFO  A_Base_Class - Browser closed...!
+03:28:45.516 [main] INFO  TestCreate_Booking_payViaEmail - Browser Opened...!
+03:29:03.848 [main] INFO  TestCreate_Booking_payViaEmail - Login credentials are entered...!
+03:29:10.961 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on calendar button...!
+03:29:32.041 [main] INFO  TestCreate_Booking_payViaEmail - Outlet selected...!
+03:29:54.032 [main] INFO  TestCreate_Booking_payViaEmail - User information are entered...!
+03:29:59.860 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on create reservation button...!
+03:30:08.555 [main] INFO  TestCreate_Booking_payViaEmail - Date selected for booking...!
+03:30:14.339 [main] INFO  TestCreate_Booking_payViaEmail - Enable Package type plan selected for booking...!
+03:30:34.910 [main] INFO  TestCreate_Booking_payViaEmail - Package and additional guests are selected...!
+03:30:40.309 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on proceed to pay button...!
+03:30:48.575 [main] INFO  TestCreate_Booking_payViaEmail - Pay via email option selected for payment...!
+03:30:51.809 [main] INFO  TestCreate_Booking_payViaEmail - Link has been send sucessfully...!
+03:31:02.919 [main] INFO  TestCreate_Booking_payViaEmail - Navigated to yopmail.com...!
+03:31:20.569 [main] INFO  TestCreate_Booking_payViaEmail - Logged in into yop mail account...!
+03:31:34.186 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on link which navigates to payment page...!
+03:31:48.266 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on pay button...!
+03:32:05.448 [main] INFO  TestCreate_Booking_payViaEmail - Card details entered successfully...!
+03:32:10.708 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on final pay button...!
+03:32:28.533 [main] INFO  TestCreate_Booking_payViaEmail - Your Party is Booked by paying via email...!
+03:32:29.255 [main] INFO  A_Base_Class - Browser closed...!
+03:32:41.835 [main] INFO  TestCreate_Booking_paymentCard - Browser Opened...!
+03:33:00.162 [main] INFO  TestCreate_Booking_paymentCard - Login credentials are entered...!
+03:33:02.790 [main] INFO  TestCreate_Booking_paymentCard - Clicked on calendar button...!
+03:33:24.002 [main] INFO  TestCreate_Booking_paymentCard - Outlet selected...!
+03:33:42.580 [main] INFO  TestCreate_Booking_paymentCard - User information are entered...!
+03:33:48.422 [main] INFO  TestCreate_Booking_paymentCard - Clicked on create reservation button...!
+03:33:56.469 [main] INFO  TestCreate_Booking_paymentCard - Date selected for booking...!
+03:34:02.272 [main] INFO  TestCreate_Booking_paymentCard - Enable Package type plan selected for booking...!
+03:34:22.543 [main] INFO  TestCreate_Booking_paymentCard - Package and additional guests are selected...!
+03:34:27.942 [main] INFO  TestCreate_Booking_paymentCard - Clicked on proceed to pay button...!
+03:34:40.646 [main] INFO  TestCreate_Booking_paymentCard - Pay via Card option selected for payment...!
+03:34:59.380 [main] INFO  TestCreate_Booking_paymentCard - Card details entered successfully...!
+03:35:04.677 [main] INFO  TestCreate_Booking_paymentCard - Clicked on pay button...!
+03:35:09.676 [main] INFO  TestCreate_Booking_paymentCard - Clicked on refresh button to change the status...!
+03:35:15.060 [main] INFO  TestCreate_Booking_paymentCard - Clicked on Payment Received checkbox...!
+03:35:17.787 [main] INFO  TestCreate_Booking_paymentCard - Clicked on confirm button...!
+03:35:17.895 [main] INFO  TestCreate_Booking_paymentCard - Booking is successfull by Card payment...!
+03:35:18.547 [main] INFO  A_Base_Class - Browser closed...!
+03:35:31.036 [main] INFO  TestAdmin_EditDate - Browser opened...!
+03:35:44.136 [main] INFO  TestAdmin_EditDate - Login credentials are entered...!
+03:35:54.548 [main] INFO  TestAdmin_EditDate - Clicked on calendar button...!
+03:36:23.276 [main] INFO  TestAdmin_EditDate - Outlet selected...!
+03:36:44.628 [main] INFO  TestAdmin_EditDate - User information are entered...!
+03:36:51.907 [main] INFO  TestAdmin_EditDate - Clicked cell on calander...!
+03:37:00.233 [main] INFO  TestAdmin_EditDate - Date selected for booking...!
+03:37:05.983 [main] INFO  TestAdmin_EditDate - Enable Package type plan selected for booking...!
+03:37:26.681 [main] INFO  TestAdmin_EditDate - Package/Additional guests are selected...!
+03:37:32.076 [main] INFO  TestAdmin_EditDate - Clicked on proceed to pay button...!
+03:37:43.921 [main] INFO  TestAdmin_EditDate - Payment via cash option selected for payment...!
+03:37:56.260 [main] INFO  TestAdmin_EditDate - Clicked on payment received checkbox...!
+03:38:01.969 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+03:38:01.970 [main] INFO  TestAdmin_EditDate - Cash payment done successfully...!
+03:38:11.239 [main] INFO  TestAdmin_EditDate - Click on submit button...!
+03:38:14.251 [main] INFO  TestAdmin_EditDate - Booking created successfully...!
+03:38:23.895 [main] INFO  TestAdmin_EditDate - Clicked on Created booking to edit lane
+03:38:31.842 [main] INFO  TestAdmin_EditDate - Clicked on edit button...!
+03:38:41.569 [main] INFO  TestAdmin_EditDate - Clicked on Calender to select new date...!
+03:38:49.826 [main] INFO  TestAdmin_EditDate - Clicked on new date...!
+03:38:57.177 [main] INFO  TestAdmin_EditDate - Clicked on Update Booking Button...!
+03:39:04.542 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+03:39:09.400 [main] INFO  TestAdmin_EditDate - Click on submit Button...!
+03:39:09.401 [main] INFO  TestAdmin_EditDate - Booking Date updated successfully...!
+03:39:26.556 [main] INFO  TestAdmin_EditDate - User information are entered...!
+03:39:31.986 [main] INFO  TestAdmin_EditDate - Clicked on create reservation button...!
+03:39:37.244 [main] INFO  TestAdmin_EditDate - Date selected for booking...!
+03:39:42.942 [main] INFO  TestAdmin_EditDate - Enable Package type plan selected for booking...!
+03:40:03.258 [main] INFO  TestAdmin_EditDate - Package/Additional guests are selected...!
+03:40:08.641 [main] INFO  TestAdmin_EditDate - Clicked on proceed to pay button...!
+03:40:20.276 [main] INFO  TestAdmin_EditDate - Payment via cash option selected for payment...!
+03:40:32.625 [main] INFO  TestAdmin_EditDate - Clicked on payment received checkbox...!
+03:40:38.353 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+03:40:38.354 [main] INFO  TestAdmin_EditDate - Cash payment done successfully...!
+03:40:46.775 [main] INFO  TestAdmin_EditDate - Click on submit button...!
+03:40:46.776 [main] INFO  TestAdmin_EditDate - Booking created successfully on previous date...!
+03:40:47.708 [main] INFO  A_Base_Class - Browser closed...!
+03:40:59.632 [main] INFO  TestAdmin_Edit_ReservationSlot - Browser opened...!
+03:41:18.303 [main] INFO  TestAdmin_Edit_ReservationSlot - Login credentials are entered...!
+03:41:20.799 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on calendar button...!
+03:41:41.896 [main] INFO  TestAdmin_Edit_ReservationSlot - Outlet selected...!
+03:42:05.357 [main] INFO  TestAdmin_Edit_ReservationSlot - User information are entered...!
+03:42:11.411 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on create reservation button...!
+03:42:19.912 [main] INFO  TestAdmin_Edit_ReservationSlot - Date selected for booking...!
+03:42:25.866 [main] INFO  TestAdmin_Edit_ReservationSlot - Enable Package type plan selected for booking...!
+03:42:45.973 [main] INFO  TestAdmin_Edit_ReservationSlot - Package/Additional guests are selected...!
+03:42:51.451 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on proceed to pay button...!
+03:43:04.199 [main] INFO  TestAdmin_Edit_ReservationSlot - Pay via Card option selected for payment...!
+03:43:22.687 [main] INFO  TestAdmin_Edit_ReservationSlot - Card details entered successfully...!
+03:43:27.986 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on pay button...!
+03:43:35.029 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on refresh button to change the status...!
+03:43:40.371 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on Payment Received checkbox...!
+03:43:43.054 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on confirm button...!
+03:43:45.466 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on submit button...!
+03:43:50.479 [main] INFO  TestAdmin_Edit_ReservationSlot - Booking created successfully...!
+03:43:55.087 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on Created booking to edit reservation slot
+03:44:03.477 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on edit button...!
+03:44:11.371 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on new reservation slot...!
+03:44:22.567 [main] INFO  TestAdmin_Edit_ReservationSlot - Package/Additional guests are selected...!
+03:44:25.951 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on update booking button...!
+03:44:28.583 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on confirm button...!
+03:44:38.958 [main] INFO  TestAdmin_Edit_ReservationSlot - Cash payment method selected...!
+03:44:41.293 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on payment received check box...!
+03:44:45.583 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on conferm button...!
+03:44:56.820 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on submit button...!
+03:44:56.821 [main] INFO  TestAdmin_Edit_ReservationSlot - Reservation Slot Updated successfully...!
+03:44:57.535 [main] INFO  A_Base_Class - Browser closed...!
+03:45:07.502 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Browser opened...!
+03:45:25.743 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Login credentials are entered...!
+03:45:28.195 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on calendar button...!
+03:45:49.246 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Outlet selected...!
+03:46:08.439 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - User information are entered...!
+03:46:14.375 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on create reservation button...!
+03:46:22.617 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Date selected for booking...!
+03:46:28.365 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Enable Package type plan selected for booking...!
+03:46:46.420 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Package/Additional guests are selected...!
+03:46:51.822 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on proceed to pay button...!
+03:47:04.493 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Pay via Card option selected for payment...!
+03:47:23.051 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Card details entered successfully...!
+03:47:28.353 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on pay button...!
+03:47:35.927 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on refresh button to change the status...!
+03:47:38.265 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Payment Received check box...!
+03:47:43.927 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on confirm button...!
+03:47:48.323 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on submit button...!
+03:47:53.337 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Booking created successfully...!
+03:48:01.082 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Created booking to edit Addon
+03:48:08.987 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on edit button...!
+03:48:18.295 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on update addon button...!
+03:48:21.119 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Addon selected...!
+03:48:23.380 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on update booking button...!
+03:48:25.695 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Confirm Button...!
+03:48:33.446 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Card payment method selected for payment...!
+03:48:38.765 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Pay Via Save Card Option...!
+03:48:41.049 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Pay button...!
+03:48:48.471 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on refresh button...!
+03:48:55.799 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on submit button...!
+03:48:56.156 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Addon updated successfully...!
+03:48:56.828 [main] INFO  A_Base_Class - Browser closed...!
+03:49:08.617 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Browser opened...!
+03:49:26.739 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Login credentials are entered...!
+03:49:29.188 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on calendar button...!
+03:49:50.213 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Outlet selected...!
+03:50:13.357 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - User information are entered...!
+03:50:19.377 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on create reservation button...!
+03:50:27.290 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Date selected for booking...!
+03:50:33.109 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Enable Package type plan selected for booking...!
+03:50:53.950 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Package/Additional guests are selected...!
+03:50:59.381 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on proceed to pay button...!
+03:51:12.149 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Pay via Card option selected for payment...!
+03:51:30.625 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Card details entered successfully...!
+03:51:35.916 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on pay button...!
+03:51:43.112 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on refresh button to change the status...!
+03:51:45.484 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Payment Received checkbox...!
+03:51:51.142 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on confirm button...!
+03:51:53.541 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on submit button...!
+03:51:58.554 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Booking created successfully...!
+03:52:08.140 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Created booking to edit items
+03:52:16.529 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on edit button...!
+03:52:24.992 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Sale item selected...!
+03:52:27.365 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on update booking button...!
+03:52:29.823 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Confirm Button...!
+03:52:38.261 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Card payment method selected for payment...!
+03:52:48.548 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Pay Via Save Card Option...!
+03:52:51.810 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Pay button...!
+03:52:58.448 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on refresh button...!
+03:53:05.750 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on submit button...!
+03:53:06.035 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Items updated successfully...!
+03:53:06.668 [main] INFO  A_Base_Class - Browser closed...!
+03:53:16.913 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Browser opened...!
+03:53:34.737 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Login credentials are entered...!
+03:53:52.798 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on calendar button...!
+03:54:13.759 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Outlet selected...!
+03:54:35.017 [main] INFO  TestAdmin_EditTime_CreateNewBooking - User information are entered...!
+03:54:51.297 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on 5 AM cell on calander...!
+03:55:02.615 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Date selected for booking...!
+03:55:06.406 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Per Hour type plan selected for booking...!
+03:55:19.284 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Hour/Guest/Items are selected...!
+03:55:24.651 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on proceed to pay button...!
+03:55:35.015 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Payment via cash option selected for payment...!
+03:55:47.376 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on payment received checkbox...!
+03:55:53.079 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+03:55:53.079 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Cash payment done successfully...!
+03:56:01.482 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Click on submit button...!
+03:56:06.490 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Booking created successfully...!
+03:56:16.068 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Created booking to edit time
+03:56:24.007 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on edit button...!
+03:56:50.904 [main] INFO  TestAdmin_EditTime_CreateNewBooking - New time selected for booking...!
+03:56:58.323 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Update Booking Button...!
+03:57:05.686 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+03:57:10.574 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Click on submit Button...!
+03:57:10.575 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Booking Time updated successfully...!
+03:57:16.898 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on refresh button...!
+03:57:42.736 [main] INFO  TestAdmin_EditTime_CreateNewBooking - User information are entered...!
+03:57:51.154 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on create reservation button...!
+03:57:59.618 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Previous time selected for booking...!
+03:58:18.341 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Hour/Guest/Items are selected...!
+03:58:23.692 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on proceed to pay button...!
+03:58:35.802 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Payment via cash option selected for payment...!
+03:58:48.203 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on payment received checkbox...!
+03:58:53.924 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+03:58:53.925 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Cash payment done successfully...!
+03:59:02.292 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Click on submit button...!
+03:59:02.293 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Booking created on previous time successfully...!...!
+03:59:02.948 [main] INFO  A_Base_Class - Browser closed...!
+03:59:14.904 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Browser opened...!
+03:59:33.881 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Login credentials are entered...!
+03:59:36.439 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on calendar button...!
+03:59:57.490 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Outlet selected...!
+04:00:21.933 [main] INFO  TestAdmin_EditTime_UpdateSameTime - User information are entered...!
+04:00:38.361 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on 5 AM cell on calendar...!
+04:00:49.744 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Date selected for booking...!
+04:00:53.506 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Per Hour type plan selected for booking...!
+04:01:03.593 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Hour/Guest/Items are selected...!
+04:01:09.004 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on proceed to pay button...!
+04:01:19.620 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Payment via cash option selected for payment...!
+04:01:31.991 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on payment received check box...!
+04:01:37.710 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Confirm Button...!
+04:01:37.710 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Cash payment done successfully...!
+04:01:46.156 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Click on submit button...!
+04:01:51.157 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Booking created successfully...!
+04:01:55.710 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Created booking to edit time
+04:02:03.755 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on edit button...!
+04:02:13.907 [main] INFO  TestAdmin_EditTime_UpdateSameTime - New time selected for booking...!
+04:02:21.287 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Update Booking Button...!
+04:02:28.642 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Confirm Button...!
+04:02:33.307 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Click on submit Button...!
+04:02:33.308 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Booking Time updated successfully...!
+04:58:36.435 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+04:58:55.409 [main] INFO  TestCreate_Booking_paymentViaCash - Login credentials are entered...!
+04:58:57.854 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calendar button...!
+05:49:34.001 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+05:49:52.953 [main] INFO  TestCreate_Booking_paymentViaCash - Login credentials are entered...!
+05:50:06.864 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calendar button...!
+05:51:18.620 [main] INFO  TestCreate_Booking_paymentViaCash - Outlet selected...!
+05:51:45.501 [main] INFO  TestCreate_Booking_paymentViaCash - User information are entered...!
+05:51:53.091 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calander cell...!
+05:52:01.913 [main] INFO  TestCreate_Booking_paymentViaCash - Date selected for booking...!
+05:52:07.812 [main] INFO  TestCreate_Booking_paymentViaCash - Enable Package type plan selected for booking...!
+05:52:27.478 [main] INFO  TestCreate_Booking_paymentViaCash - Package and additional guests are selected...!
+05:52:32.880 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on proceed to pay button...!
+05:52:43.816 [main] INFO  TestCreate_Booking_paymentViaCash - Pay via Cash option selected for payment...!
+05:52:49.152 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on payment Received check box...!
+05:52:53.948 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on Confirm Button...!
+05:52:55.506 [main] INFO  TestCreate_Booking_paymentViaCash - Booking is successfull by cash payment...!
+05:52:56.367 [main] INFO  A_Base_Class - Browser closed...!
+05:53:07.817 [main] INFO  TestCreate_Booking_payViaEmail - Browser Opened...!
+05:53:26.569 [main] INFO  TestCreate_Booking_payViaEmail - Login credentials are entered...!
+05:53:33.564 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on calendar button...!
+05:53:54.951 [main] INFO  TestCreate_Booking_payViaEmail - Outlet selected...!
+05:54:13.151 [main] INFO  TestCreate_Booking_payViaEmail - User information are entered...!
+05:54:20.681 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on create reservation button...!
+05:54:28.716 [main] INFO  TestCreate_Booking_payViaEmail - Date selected for booking...!
+05:54:34.805 [main] INFO  TestCreate_Booking_payViaEmail - Enable Package type plan selected for booking...!
+05:54:55.634 [main] INFO  TestCreate_Booking_payViaEmail - Package and additional guests are selected...!
+05:55:01.099 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on proceed to pay button...!
+05:55:09.871 [main] INFO  TestCreate_Booking_payViaEmail - Pay via email option selected for payment...!
+05:55:13.258 [main] INFO  TestCreate_Booking_payViaEmail - Link has been send sucessfully...!
+05:55:26.059 [main] INFO  TestCreate_Booking_payViaEmail - Navigated to yopmail.com...!
+05:55:44.247 [main] INFO  TestCreate_Booking_payViaEmail - Logged in into yop mail account...!
+05:55:58.015 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on link which navigates to payment page...!
+05:56:10.412 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on pay button...!
+05:56:28.189 [main] INFO  TestCreate_Booking_payViaEmail - Card details entered successfully...!
+05:56:33.466 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on final pay button...!
+05:56:42.571 [main] INFO  TestCreate_Booking_payViaEmail - Your Party is Booked by paying via email...!
+05:56:43.247 [main] INFO  A_Base_Class - Browser closed...!
+05:56:55.865 [main] INFO  TestCreate_Booking_paymentCard - Browser Opened...!
+05:57:15.015 [main] INFO  TestCreate_Booking_paymentCard - Login credentials are entered...!
+05:57:20.378 [main] INFO  TestCreate_Booking_paymentCard - Clicked on calendar button...!
+05:57:41.664 [main] INFO  TestCreate_Booking_paymentCard - Outlet selected...!
+05:58:01.460 [main] INFO  TestCreate_Booking_paymentCard - User information are entered...!
+05:58:07.961 [main] INFO  TestCreate_Booking_paymentCard - Clicked on create reservation button...!
+05:58:16.123 [main] INFO  TestCreate_Booking_paymentCard - Date selected for booking...!
+05:58:22.012 [main] INFO  TestCreate_Booking_paymentCard - Enable Package type plan selected for booking...!
+05:58:42.440 [main] INFO  TestCreate_Booking_paymentCard - Package and additional guests are selected...!
+05:58:47.868 [main] INFO  TestCreate_Booking_paymentCard - Clicked on proceed to pay button...!
+05:59:00.828 [main] INFO  TestCreate_Booking_paymentCard - Pay via Card option selected for payment...!
+05:59:19.781 [main] INFO  TestCreate_Booking_paymentCard - Card details entered successfully...!
+05:59:25.103 [main] INFO  TestCreate_Booking_paymentCard - Clicked on pay button...!
+05:59:32.185 [main] INFO  TestCreate_Booking_paymentCard - Clicked on refresh button to change the status...!
+05:59:37.581 [main] INFO  TestCreate_Booking_paymentCard - Clicked on Payment Received checkbox...!
+05:59:40.251 [main] INFO  TestCreate_Booking_paymentCard - Clicked on confirm button...!
+05:59:40.384 [main] INFO  TestCreate_Booking_paymentCard - Booking is successfull by Card payment...!
+05:59:40.998 [main] INFO  A_Base_Class - Browser closed...!
+06:00:47.984 [main] INFO  TestAdmin_EditDate - Browser opened...!
+06:01:01.931 [main] INFO  TestAdmin_EditDate - Login credentials are entered...!
+06:01:09.091 [main] INFO  TestAdmin_EditDate - Clicked on calendar button...!
+06:01:30.538 [main] INFO  TestAdmin_EditDate - Outlet selected...!
+06:01:51.186 [main] INFO  TestAdmin_EditDate - User information are entered...!
+06:01:58.670 [main] INFO  TestAdmin_EditDate - Clicked cell on calander...!
+06:02:07.396 [main] INFO  TestAdmin_EditDate - Date selected for booking...!
+06:02:13.185 [main] INFO  TestAdmin_EditDate - Enable Package type plan selected for booking...!
+06:02:32.970 [main] INFO  TestAdmin_EditDate - Package/Additional guests are selected...!
+06:02:38.385 [main] INFO  TestAdmin_EditDate - Clicked on proceed to pay button...!
+06:02:47.449 [main] INFO  TestAdmin_EditDate - Payment via cash option selected for payment...!
+06:02:59.797 [main] INFO  TestAdmin_EditDate - Clicked on payment received checkbox...!
+06:03:05.654 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+06:03:05.655 [main] INFO  TestAdmin_EditDate - Cash payment done successfully...!
+06:03:13.582 [main] INFO  TestAdmin_EditDate - Click on submit button...!
+06:03:16.601 [main] INFO  TestAdmin_EditDate - Booking created successfully...!
+06:03:26.227 [main] INFO  TestAdmin_EditDate - Clicked on Created booking to edit lane
+06:03:34.137 [main] INFO  TestAdmin_EditDate - Clicked on edit button...!
+06:03:44.023 [main] INFO  TestAdmin_EditDate - Clicked on Calender to select new date...!
+06:03:52.299 [main] INFO  TestAdmin_EditDate - Clicked on new date...!
+06:03:59.823 [main] INFO  TestAdmin_EditDate - Clicked on Update Booking Button...!
+06:04:07.180 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+06:04:11.921 [main] INFO  TestAdmin_EditDate - Click on submit Button...!
+06:04:11.923 [main] INFO  TestAdmin_EditDate - Booking Date updated successfully...!
+06:04:28.224 [main] INFO  TestAdmin_EditDate - User information are entered...!
+06:04:33.714 [main] INFO  TestAdmin_EditDate - Clicked on create reservation button...!
+06:04:39.058 [main] INFO  TestAdmin_EditDate - Date selected for booking...!
+06:04:44.768 [main] INFO  TestAdmin_EditDate - Enable Package type plan selected for booking...!
+06:05:04.747 [main] INFO  TestAdmin_EditDate - Package/Additional guests are selected...!
+06:05:10.110 [main] INFO  TestAdmin_EditDate - Clicked on proceed to pay button...!
+06:05:19.018 [main] INFO  TestAdmin_EditDate - Payment via cash option selected for payment...!
+06:05:31.343 [main] INFO  TestAdmin_EditDate - Clicked on payment received checkbox...!
+06:05:37.182 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+06:05:37.183 [main] INFO  TestAdmin_EditDate - Cash payment done successfully...!
+06:05:44.815 [main] INFO  TestAdmin_EditDate - Click on submit button...!
+06:05:44.816 [main] INFO  TestAdmin_EditDate - Booking created successfully on previous date...!
+06:05:45.355 [main] INFO  A_Base_Class - Browser closed...!
+06:05:58.582 [main] INFO  TestAdmin_Edit_ReservationSlot - Browser opened...!
+06:06:17.518 [main] INFO  TestAdmin_Edit_ReservationSlot - Login credentials are entered...!
+06:06:20.065 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on calendar button...!
+06:06:41.381 [main] INFO  TestAdmin_Edit_ReservationSlot - Outlet selected...!
+06:07:04.257 [main] INFO  TestAdmin_Edit_ReservationSlot - User information are entered...!
+06:07:10.524 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on create reservation button...!
+06:07:18.582 [main] INFO  TestAdmin_Edit_ReservationSlot - Date selected for booking...!
+06:07:24.567 [main] INFO  TestAdmin_Edit_ReservationSlot - Enable Package type plan selected for booking...!
+06:07:45.461 [main] INFO  TestAdmin_Edit_ReservationSlot - Package/Additional guests are selected...!
+06:07:50.947 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on proceed to pay button...!
+06:08:03.622 [main] INFO  TestAdmin_Edit_ReservationSlot - Pay via Card option selected for payment...!
+06:08:22.315 [main] INFO  TestAdmin_Edit_ReservationSlot - Card details entered successfully...!
+06:08:27.648 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on pay button...!
+06:08:33.948 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on refresh button to change the status...!
+06:08:39.382 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on Payment Received checkbox...!
+06:08:42.056 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on confirm button...!
+06:08:44.494 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on submit button...!
+06:08:49.498 [main] INFO  TestAdmin_Edit_ReservationSlot - Booking created successfully...!
+06:08:54.130 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on Created booking to edit reservation slot
+06:09:02.187 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on edit button...!
+06:09:10.237 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on new reservation slot...!
+06:09:21.479 [main] INFO  TestAdmin_Edit_ReservationSlot - Package/Additional guests are selected...!
+06:09:24.868 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on update booking button...!
+06:09:27.734 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on confirm button...!
+06:09:37.145 [main] INFO  TestAdmin_Edit_ReservationSlot - Cash payment method selected...!
+06:09:39.444 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on payment received check box...!
+06:09:43.729 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on conferm button...!
+06:09:54.210 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on submit button...!
+06:09:54.211 [main] INFO  TestAdmin_Edit_ReservationSlot - Reservation Slot Updated successfully...!
+06:09:54.717 [main] INFO  A_Base_Class - Browser closed...!
+06:10:05.284 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Browser opened...!
+06:10:23.912 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Login credentials are entered...!
+06:10:26.639 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on calendar button...!
+06:10:47.734 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Outlet selected...!
+06:11:07.446 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - User information are entered...!
+06:11:13.203 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on create reservation button...!
+06:11:21.498 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Date selected for booking...!
+06:11:27.421 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Enable Package type plan selected for booking...!
+06:11:46.593 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Package/Additional guests are selected...!
+06:11:52.074 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on proceed to pay button...!
+06:12:04.758 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Pay via Card option selected for payment...!
+06:12:23.375 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Card details entered successfully...!
+06:12:28.688 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on pay button...!
+06:12:36.535 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on refresh button to change the status...!
+06:12:38.948 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Payment Received check box...!
+06:12:44.593 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on confirm button...!
+06:12:49.036 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on submit button...!
+06:12:54.043 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Booking created successfully...!
+06:13:01.766 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Created booking to edit Addon
+06:13:09.801 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on edit button...!
+06:13:20.811 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on update addon button...!
+06:13:23.598 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Addon selected...!
+06:13:25.857 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on update booking button...!
+06:13:28.157 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Confirm Button...!
+06:13:36.556 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Card payment method selected for payment...!
+06:13:41.948 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Pay Via Save Card Option...!
+06:13:44.335 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Pay button...!
+06:13:51.499 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on refresh button...!
+06:13:58.856 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on submit button...!
+06:13:59.196 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Addon updated successfully...!
+06:13:59.745 [main] INFO  A_Base_Class - Browser closed...!
+06:14:11.802 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Browser opened...!
+06:14:30.257 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Login credentials are entered...!
+06:14:32.705 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on calendar button...!
+06:14:53.810 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Outlet selected...!
+06:15:16.042 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - User information are entered...!
+06:15:21.901 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on create reservation button...!
+06:15:29.766 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Date selected for booking...!
+06:15:35.531 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Enable Package type plan selected for booking...!
+06:15:55.218 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Package/Additional guests are selected...!
+06:16:00.613 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on proceed to pay button...!
+06:16:13.283 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Pay via Card option selected for payment...!
+06:16:31.781 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Card details entered successfully...!
+06:16:37.112 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on pay button...!
+06:16:42.357 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on refresh button to change the status...!
+06:16:44.766 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Payment Received checkbox...!
+06:16:50.413 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on confirm button...!
+06:16:52.861 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on submit button...!
+06:16:57.875 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Booking created successfully...!
+06:17:07.477 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Created booking to edit items
+06:17:15.409 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on edit button...!
+06:17:23.464 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Sale item selected...!
+06:17:25.806 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on update booking button...!
+06:17:28.525 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Confirm Button...!
+06:17:36.047 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Card payment method selected for payment...!
+06:17:46.354 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Pay Via Save Card Option...!
+06:17:49.644 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Pay button...!
+06:17:57.633 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on refresh button...!
+06:18:04.964 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on submit button...!
+06:18:05.329 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Items updated successfully...!
+06:18:05.788 [main] INFO  A_Base_Class - Browser closed...!
+06:18:16.202 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Browser opened...!
+06:18:34.146 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Login credentials are entered...!
+06:18:46.738 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on calendar button...!
+06:19:07.893 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Outlet selected...!
+06:19:29.165 [main] INFO  TestAdmin_EditTime_CreateNewBooking - User information are entered...!
+06:19:45.514 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on 5 AM cell on calander...!
+06:19:56.669 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Date selected for booking...!
+06:20:00.438 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Per Hour type plan selected for booking...!
+06:20:13.254 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Hour/Guest/Items are selected...!
+06:20:18.654 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on proceed to pay button...!
+06:20:27.962 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Payment via cash option selected for payment...!
+06:20:40.328 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on payment received checkbox...!
+06:20:46.050 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+06:20:46.050 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Cash payment done successfully...!
+06:20:54.443 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Click on submit button...!
+06:20:59.450 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Booking created successfully...!
+06:21:09.067 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Created booking to edit time
+06:21:16.939 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on edit button...!
+06:21:43.332 [main] INFO  TestAdmin_EditTime_CreateNewBooking - New time selected for booking...!
+06:21:50.738 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Update Booking Button...!
+06:21:58.115 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+06:22:02.935 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Click on submit Button...!
+06:22:02.940 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Booking Time updated successfully...!
+06:22:09.268 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on refresh button...!
+06:22:35.416 [main] INFO  TestAdmin_EditTime_CreateNewBooking - User information are entered...!
+06:22:43.851 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on create reservation button...!
+06:22:52.573 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Previous time selected for booking...!
+06:23:11.179 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Hour/Guest/Items are selected...!
+06:23:16.549 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on proceed to pay button...!
+06:23:26.589 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Payment via cash option selected for payment...!
+06:23:38.885 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on payment received checkbox...!
+06:23:44.612 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+06:23:44.612 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Cash payment done successfully...!
+06:24:05.246 [main] INFO  A_Base_Class - Browser closed...!
+06:24:17.120 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Browser opened...!
+06:24:34.890 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Login credentials are entered...!
+06:24:48.028 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on calendar button...!
+06:25:09.939 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Outlet selected...!
+06:25:31.211 [main] INFO  TestAdmin_EditTime_UpdateSameTime - User information are entered...!
+06:25:47.595 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on 5 AM cell on calendar...!
+06:25:58.783 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Date selected for booking...!
+06:26:02.559 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Per Hour type plan selected for booking...!
+06:26:12.326 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Hour/Guest/Items are selected...!
+06:26:17.736 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on proceed to pay button...!
+06:26:27.626 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Payment via cash option selected for payment...!
+06:26:39.987 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on payment received check box...!
+06:26:45.709 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Confirm Button...!
+06:26:45.709 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Cash payment done successfully...!
+06:26:54.803 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Click on submit button...!
+06:26:59.812 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Booking created successfully...!
+06:27:04.386 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Created booking to edit time
+06:27:12.305 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on edit button...!
+06:27:27.594 [main] INFO  TestAdmin_EditTime_UpdateSameTime - New time selected for booking...!
+06:27:35.062 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Update Booking Button...!
+06:27:42.434 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Confirm Button...!
+06:27:47.375 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Click on submit Button...!
+06:27:47.376 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Booking Time updated successfully...!
+06:27:56.953 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Created booking to book free slot on same time
+06:28:04.754 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on edit button...!
+06:28:15.210 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Previous time selected to move the booking...!
+06:28:20.432 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Update Booking Button...!
+06:28:27.813 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Confirm Button...!
+06:28:35.584 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Click on submit Button...!
+06:28:35.585 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Successfully update the booking on previous time...!
+06:28:36.218 [main] INFO  A_Base_Class - Browser closed...!
+06:28:45.435 [main] INFO  TestAdmin_EditLane - Browser opened...!
+06:29:03.282 [main] INFO  TestAdmin_EditLane - Login credentials are entered...!
+06:29:11.478 [main] INFO  TestAdmin_EditLane - Clicked on calendar button...!
+06:29:32.488 [main] INFO  TestAdmin_EditLane - Outlet selected...!
+06:29:52.136 [main] INFO  TestAdmin_EditLane - User information are entered...!
+06:30:03.614 [main] INFO  TestAdmin_EditLane - Clicked cell on calander...!
+06:30:14.853 [main] INFO  TestAdmin_EditLane - Date selected for booking...!
+06:30:21.712 [main] INFO  TestAdmin_EditLane - Per Person type plan selected for booking...!
+06:30:31.501 [main] INFO  TestAdmin_EditLane - Person/Item are selected...!
+06:30:36.889 [main] INFO  TestAdmin_EditLane - Clicked on proceed to pay button...!
+06:30:46.228 [main] INFO  TestAdmin_EditLane - Payment via cash option selected for payment...!
+06:30:58.574 [main] INFO  TestAdmin_EditLane - Clicked on payment received checkbox...!
+06:31:04.286 [main] INFO  TestAdmin_EditLane - Clicked on Confirm Button...!
+06:31:04.286 [main] INFO  TestAdmin_EditLane - Cash payment done successfully...!
+06:31:13.494 [main] INFO  TestAdmin_EditLane - Click on submit button...!
+06:31:18.500 [main] INFO  TestAdmin_EditLane - Booking created successfully...!
+06:31:23.096 [main] INFO  TestAdmin_EditLane - Clicked on created booking to update the lane...!
+06:31:31.059 [main] INFO  TestAdmin_EditLane - Clicked on edit button...!
+06:31:39.793 [main] INFO  TestAdmin_EditLane - Default selected lane unClicked...!
+06:31:48.543 [main] INFO  TestAdmin_EditLane - Select updated lane...!
+06:31:55.919 [main] INFO  TestAdmin_EditLane - Clicked on Update Booking Button...!
+06:32:03.255 [main] INFO  TestAdmin_EditLane - Clicked on Conferm Button...!
+06:32:07.941 [main] INFO  TestAdmin_EditLane - Click on submit Button...!
+06:32:07.945 [main] INFO  TestAdmin_EditLane - Booking Lane updated successfully...!
+06:32:12.740 [main] INFO  TestAdmin_EditLane - Click on updated booking for booking free slot...!
+06:32:20.524 [main] INFO  TestAdmin_EditLane - Click on edit button...!
+06:32:26.001 [main] INFO  TestAdmin_EditLane - Increase person count...!
+06:32:30.626 [main] INFO  TestAdmin_EditLane - Previous lane selected for booking...!
+06:32:32.906 [main] INFO  TestAdmin_EditLane - Click Update Booking Button...!
+06:32:40.198 [main] INFO  TestAdmin_EditLane - Clicked on Confirm Button...!
+06:32:47.717 [main] INFO  TestAdmin_EditLane - Pay via Cash option selected for payment...!
+06:32:53.101 [main] INFO  TestAdmin_EditLane - Clicked on payment received checkbox...!
+06:32:58.422 [main] INFO  TestAdmin_EditLane - Click on confirm Button...!
+06:33:08.934 [main] INFO  TestAdmin_EditLane - Click on Submit Button...!
+06:33:08.935 [main] INFO  TestAdmin_EditLane - Free lane updated successfully...!
+06:33:09.411 [main] INFO  A_Base_Class - Browser closed...!
+13:22:11.687 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+13:23:26.078 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+13:23:44.360 [main] INFO  TestCreate_Booking_paymentViaCash - Login credentials are entered...!
+13:23:51.188 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calendar button...!
+13:25:02.493 [main] INFO  TestCreate_Booking_paymentViaCash - Outlet selected...!
+13:25:27.568 [main] INFO  TestCreate_Booking_paymentViaCash - User information are entered...!
+13:25:34.784 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calander cell...!
+13:25:42.965 [main] INFO  TestCreate_Booking_paymentViaCash - Date selected for booking...!
+13:25:48.776 [main] INFO  TestCreate_Booking_paymentViaCash - Enable Package type plan selected for booking...!
+13:26:07.722 [main] INFO  TestCreate_Booking_paymentViaCash - Package and additional guests are selected...!
+13:26:13.133 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on proceed to pay button...!
+13:26:24.553 [main] INFO  TestCreate_Booking_paymentViaCash - Pay via Cash option selected for payment...!
+13:26:29.887 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on payment Received check box...!
+13:26:34.563 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on Confirm Button...!
+13:26:36.371 [main] INFO  TestCreate_Booking_paymentViaCash - Booking is successfull by cash payment...!
+13:26:37.373 [main] INFO  A_Base_Class - Browser closed...!
+13:26:49.206 [main] INFO  TestCreate_Booking_payViaEmail - Browser Opened...!
+13:27:07.056 [main] INFO  TestCreate_Booking_payViaEmail - Login credentials are entered...!
+13:27:09.876 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on calendar button...!
+13:27:30.996 [main] INFO  TestCreate_Booking_payViaEmail - Outlet selected...!
+13:27:53.137 [main] INFO  TestCreate_Booking_payViaEmail - User information are entered...!
+13:27:59.056 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on create reservation button...!
+13:28:07.192 [main] INFO  TestCreate_Booking_payViaEmail - Date selected for booking...!
+13:28:12.976 [main] INFO  TestCreate_Booking_payViaEmail - Enable Package type plan selected for booking...!
+13:28:33.404 [main] INFO  TestCreate_Booking_payViaEmail - Package and additional guests are selected...!
+13:28:38.812 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on proceed to pay button...!
+13:28:47.736 [main] INFO  TestCreate_Booking_payViaEmail - Pay via email option selected for payment...!
+13:28:51.003 [main] INFO  TestCreate_Booking_payViaEmail - Link has been send sucessfully...!
+13:29:00.093 [main] INFO  TestCreate_Booking_payViaEmail - Navigated to yopmail.com...!
+13:29:18.122 [main] INFO  TestCreate_Booking_payViaEmail - Logged in into yop mail account...!
+13:29:31.794 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on link which navigates to payment page...!
+13:29:47.020 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on pay button...!
+13:30:03.888 [main] INFO  TestCreate_Booking_payViaEmail - Card details entered successfully...!
+13:30:09.167 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on final pay button...!
+13:30:18.716 [main] INFO  TestCreate_Booking_payViaEmail - Your Party is Booked by paying via email...!
+13:30:19.407 [main] INFO  A_Base_Class - Browser closed...!
+13:30:29.452 [main] INFO  TestCreate_Booking_paymentCard - Browser Opened...!
+13:30:47.543 [main] INFO  TestCreate_Booking_paymentCard - Login credentials are entered...!
+13:30:50.402 [main] INFO  TestCreate_Booking_paymentCard - Clicked on calendar button...!
+13:31:11.476 [main] INFO  TestCreate_Booking_paymentCard - Outlet selected...!
+13:31:32.471 [main] INFO  TestCreate_Booking_paymentCard - User information are entered...!
+13:31:38.281 [main] INFO  TestCreate_Booking_paymentCard - Clicked on create reservation button...!
+13:31:46.087 [main] INFO  TestCreate_Booking_paymentCard - Date selected for booking...!
+13:31:51.851 [main] INFO  TestCreate_Booking_paymentCard - Enable Package type plan selected for booking...!
+13:32:11.579 [main] INFO  TestCreate_Booking_paymentCard - Package and additional guests are selected...!
+13:32:17.017 [main] INFO  TestCreate_Booking_paymentCard - Clicked on proceed to pay button...!
+13:32:29.683 [main] INFO  TestCreate_Booking_paymentCard - Pay via Card option selected for payment...!
+13:32:48.333 [main] INFO  TestCreate_Booking_paymentCard - Card details entered successfully...!
+13:32:53.652 [main] INFO  TestCreate_Booking_paymentCard - Clicked on pay button...!
+13:32:59.943 [main] INFO  TestCreate_Booking_paymentCard - Clicked on refresh button to change the status...!
+13:33:05.345 [main] INFO  TestCreate_Booking_paymentCard - Clicked on Payment Received checkbox...!
+13:33:07.957 [main] INFO  TestCreate_Booking_paymentCard - Clicked on confirm button...!
+13:33:08.083 [main] INFO  TestCreate_Booking_paymentCard - Booking is successfull by Card payment...!
+13:33:08.714 [main] INFO  A_Base_Class - Browser closed...!
+13:33:19.857 [main] INFO  TestAdmin_EditDate - Browser opened...!
+13:33:32.745 [main] INFO  TestAdmin_EditDate - Login credentials are entered...!
+13:33:39.791 [main] INFO  TestAdmin_EditDate - Clicked on calendar button...!
+13:34:00.836 [main] INFO  TestAdmin_EditDate - Outlet selected...!
+13:34:18.890 [main] INFO  TestAdmin_EditDate - User information are entered...!
+13:34:26.225 [main] INFO  TestAdmin_EditDate - Clicked cell on calander...!
+13:34:34.378 [main] INFO  TestAdmin_EditDate - Date selected for booking...!
+13:34:40.130 [main] INFO  TestAdmin_EditDate - Enable Package type plan selected for booking...!
+13:35:00.469 [main] INFO  TestAdmin_EditDate - Package/Additional guests are selected...!
+13:35:05.881 [main] INFO  TestAdmin_EditDate - Clicked on proceed to pay button...!
+13:35:15.803 [main] INFO  TestAdmin_EditDate - Payment via cash option selected for payment...!
+13:35:28.130 [main] INFO  TestAdmin_EditDate - Clicked on payment received checkbox...!
+13:35:33.838 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+13:35:33.839 [main] INFO  TestAdmin_EditDate - Cash payment done successfully...!
+13:35:43.015 [main] INFO  TestAdmin_EditDate - Click on submit button...!
+13:35:46.030 [main] INFO  TestAdmin_EditDate - Booking created successfully...!
+13:35:55.653 [main] INFO  TestAdmin_EditDate - Clicked on Created booking to edit lane
+13:36:03.680 [main] INFO  TestAdmin_EditDate - Clicked on edit button...!
+13:36:14.060 [main] INFO  TestAdmin_EditDate - Clicked on Calender to select new date...!
+13:36:22.278 [main] INFO  TestAdmin_EditDate - Clicked on new date...!
+13:36:29.628 [main] INFO  TestAdmin_EditDate - Clicked on Update Booking Button...!
+13:36:36.991 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+13:36:42.397 [main] INFO  TestAdmin_EditDate - Click on submit Button...!
+13:36:42.398 [main] INFO  TestAdmin_EditDate - Booking Date updated successfully...!
+13:36:58.432 [main] INFO  TestAdmin_EditDate - User information are entered...!
+13:37:03.860 [main] INFO  TestAdmin_EditDate - Clicked on create reservation button...!
+13:37:09.135 [main] INFO  TestAdmin_EditDate - Date selected for booking...!
+13:37:14.848 [main] INFO  TestAdmin_EditDate - Enable Package type plan selected for booking...!
+13:37:34.627 [main] INFO  TestAdmin_EditDate - Package/Additional guests are selected...!
+13:37:40.019 [main] INFO  TestAdmin_EditDate - Clicked on proceed to pay button...!
+13:37:49.349 [main] INFO  TestAdmin_EditDate - Payment via cash option selected for payment...!
+13:38:01.661 [main] INFO  TestAdmin_EditDate - Clicked on payment received checkbox...!
+13:38:07.350 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+13:38:07.350 [main] INFO  TestAdmin_EditDate - Cash payment done successfully...!
+13:38:15.855 [main] INFO  TestAdmin_EditDate - Click on submit button...!
+13:38:15.856 [main] INFO  TestAdmin_EditDate - Booking created successfully on previous date...!
+13:38:16.710 [main] INFO  A_Base_Class - Browser closed...!
+13:38:27.941 [main] INFO  TestAdmin_Edit_ReservationSlot - Browser opened...!
+13:38:45.724 [main] INFO  TestAdmin_Edit_ReservationSlot - Login credentials are entered...!
+13:38:48.161 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on calendar button...!
+13:39:09.228 [main] INFO  TestAdmin_Edit_ReservationSlot - Outlet selected...!
+13:39:31.288 [main] INFO  TestAdmin_Edit_ReservationSlot - User information are entered...!
+13:39:37.183 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on create reservation button...!
+13:39:45.346 [main] INFO  TestAdmin_Edit_ReservationSlot - Date selected for booking...!
+13:39:51.160 [main] INFO  TestAdmin_Edit_ReservationSlot - Enable Package type plan selected for booking...!
+13:40:11.437 [main] INFO  TestAdmin_Edit_ReservationSlot - Package/Additional guests are selected...!
+13:40:16.854 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on proceed to pay button...!
+13:40:29.538 [main] INFO  TestAdmin_Edit_ReservationSlot - Pay via Card option selected for payment...!
+13:40:48.057 [main] INFO  TestAdmin_Edit_ReservationSlot - Card details entered successfully...!
+13:40:53.391 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on pay button...!
+13:41:00.014 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on refresh button to change the status...!
+13:41:05.424 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on Payment Received checkbox...!
+13:41:08.029 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on confirm button...!
+13:41:10.483 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on submit button...!
+13:41:15.491 [main] INFO  TestAdmin_Edit_ReservationSlot - Booking created successfully...!
+13:41:20.082 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on Created booking to edit reservation slot
+13:41:28.492 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on edit button...!
+13:41:36.291 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on new reservation slot...!
+13:41:47.403 [main] INFO  TestAdmin_Edit_ReservationSlot - Package/Additional guests are selected...!
+13:41:50.807 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on update booking button...!
+13:41:53.792 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on confirm button...!
+13:42:03.706 [main] INFO  TestAdmin_Edit_ReservationSlot - Cash payment method selected...!
+13:42:06.022 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on payment received check box...!
+13:42:10.295 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on conferm button...!
+13:42:21.317 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on submit button...!
+13:42:21.319 [main] INFO  TestAdmin_Edit_ReservationSlot - Reservation Slot Updated successfully...!
+13:42:22.400 [main] INFO  A_Base_Class - Browser closed...!
+13:42:35.075 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Browser opened...!
+13:42:53.437 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Login credentials are entered...!
+13:42:56.963 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on calendar button...!
+13:43:18.099 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Outlet selected...!
+13:43:37.842 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - User information are entered...!
+13:43:43.646 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on create reservation button...!
+13:43:51.599 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Date selected for booking...!
+13:43:57.402 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Enable Package type plan selected for booking...!
+13:44:15.644 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Package/Additional guests are selected...!
+13:44:21.045 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on proceed to pay button...!
+13:44:33.735 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Pay via Card option selected for payment...!
+13:44:52.305 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Card details entered successfully...!
+13:44:57.644 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on pay button...!
+13:45:04.168 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on refresh button to change the status...!
+13:45:06.542 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Payment Received check box...!
+13:45:12.180 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on confirm button...!
+13:45:16.589 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on submit button...!
+13:45:21.599 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Booking created successfully...!
+13:45:29.251 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Created booking to edit Addon
+13:45:37.206 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on edit button...!
+13:45:47.021 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on update addon button...!
+13:45:49.687 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Addon selected...!
+13:45:51.931 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on update booking button...!
+13:45:54.227 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Confirm Button...!
+13:46:02.842 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Card payment method selected for payment...!
+13:46:08.142 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Pay Via Save Card Option...!
+13:46:10.412 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Pay button...!
+13:46:17.702 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on refresh button...!
+13:46:25.063 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on submit button...!
+13:46:25.735 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Addon updated successfully...!
+13:46:26.621 [main] INFO  A_Base_Class - Browser closed...!
+13:46:36.344 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Browser opened...!
+13:46:54.626 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Login credentials are entered...!
+13:46:57.190 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on calendar button...!
+13:47:18.298 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Outlet selected...!
+13:47:41.771 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - User information are entered...!
+13:47:47.517 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on create reservation button...!
+13:47:55.465 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Date selected for booking...!
+13:48:01.358 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Enable Package type plan selected for booking...!
+13:48:22.481 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Package/Additional guests are selected...!
+13:48:27.898 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on proceed to pay button...!
+13:48:40.544 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Pay via Card option selected for payment...!
+13:48:59.021 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Card details entered successfully...!
+13:49:04.337 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on pay button...!
+13:49:11.675 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on refresh button to change the status...!
+13:49:14.028 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Payment Received checkbox...!
+13:49:19.699 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on confirm button...!
+13:49:22.130 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on submit button...!
+13:49:27.135 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Booking created successfully...!
+13:49:36.807 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Created booking to edit items
+13:49:44.714 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on edit button...!
+13:49:54.097 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Sale item selected...!
+13:49:56.447 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on update booking button...!
+13:49:58.742 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Confirm Button...!
+13:50:07.337 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Card payment method selected for payment...!
+13:50:17.674 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Pay Via Save Card Option...!
+13:50:20.950 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Pay button...!
+13:50:29.219 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on refresh button...!
+13:50:36.558 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on submit button...!
+13:50:37.248 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Items updated successfully...!
+13:50:37.873 [main] INFO  A_Base_Class - Browser closed...!
+13:50:48.796 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Browser opened...!
+13:51:07.024 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Login credentials are entered...!
+13:51:10.032 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on calendar button...!
+13:51:31.064 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Outlet selected...!
+13:51:47.685 [main] INFO  TestAdmin_EditTime_CreateNewBooking - User information are entered...!
+13:52:13.295 [main] INFO  A_Base_Class - Browser closed...!
+13:55:53.307 [main] INFO  TestAdmin_EditLane - Browser opened...!
+12:29:07.178 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+12:29:25.694 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+12:29:28.773 [main] INFO  TestCreate_Booking_paymentViaCash - Login credentials are entered...!
+12:29:32.894 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calendar button...!
+12:29:45.005 [main] INFO  TestCreate_Booking_paymentViaCash - Login credentials are entered...!
+12:29:49.640 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calendar button...!
+12:38:00.346 [main] INFO  TestCreate_Booking_paymentViaCash - Browser Opened...!
+12:38:18.588 [main] INFO  TestCreate_Booking_paymentViaCash - Login credentials are entered...!
+12:38:23.257 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calendar button...!
+12:39:34.480 [main] INFO  TestCreate_Booking_paymentViaCash - Outlet selected...!
+12:39:59.928 [main] INFO  TestCreate_Booking_paymentViaCash - User information are entered...!
+12:40:07.220 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on calander cell...!
+12:40:15.780 [main] INFO  TestCreate_Booking_paymentViaCash - Date selected for booking...!
+12:40:21.574 [main] INFO  TestCreate_Booking_paymentViaCash - Enable Package type plan selected for booking...!
+12:40:41.201 [main] INFO  TestCreate_Booking_paymentViaCash - Package and additional guests are selected...!
+12:40:46.700 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on proceed to pay button...!
+12:40:58.791 [main] INFO  TestCreate_Booking_paymentViaCash - Pay via Cash option selected for payment...!
+12:41:04.122 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on payment Received check box...!
+12:41:08.872 [main] INFO  TestCreate_Booking_paymentViaCash - Clicked on Confirm Button...!
+12:41:11.071 [main] INFO  TestCreate_Booking_paymentViaCash - Booking is successfull by cash payment...!
+12:41:11.622 [main] INFO  A_Base_Class - Browser closed...!
+12:41:22.714 [main] INFO  TestCreate_Booking_payViaEmail - Browser Opened...!
+12:41:40.755 [main] INFO  TestCreate_Booking_payViaEmail - Login credentials are entered...!
+12:41:43.362 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on calendar button...!
+12:42:04.464 [main] INFO  TestCreate_Booking_payViaEmail - Outlet selected...!
+12:42:25.957 [main] INFO  TestCreate_Booking_payViaEmail - User information are entered...!
+12:42:31.882 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on create reservation button...!
+12:42:39.891 [main] INFO  TestCreate_Booking_payViaEmail - Date selected for booking...!
+12:42:46.906 [main] INFO  TestCreate_Booking_payViaEmail - Enable Package type plan selected for booking...!
+12:43:07.219 [main] INFO  TestCreate_Booking_payViaEmail - Package and additional guests are selected...!
+12:43:12.643 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on proceed to pay button...!
+12:43:21.760 [main] INFO  TestCreate_Booking_payViaEmail - Pay via email option selected for payment...!
+12:43:25.021 [main] INFO  TestCreate_Booking_payViaEmail - Link has been send sucessfully...!
+12:43:34.041 [main] INFO  TestCreate_Booking_payViaEmail - Navigated to yopmail.com...!
+12:43:52.427 [main] INFO  TestCreate_Booking_payViaEmail - Logged in into yop mail account...!
+12:44:06.136 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on link which navigates to payment page...!
+12:44:20.387 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on pay button...!
+12:44:37.770 [main] INFO  TestCreate_Booking_payViaEmail - Card details entered successfully...!
+12:44:43.024 [main] INFO  TestCreate_Booking_payViaEmail - Clicked on final pay button...!
+12:45:02.174 [main] INFO  TestCreate_Booking_payViaEmail - Your Party is Booked by paying via email...!
+12:45:02.878 [main] INFO  A_Base_Class - Browser closed...!
+12:45:15.547 [main] INFO  TestCreate_Booking_paymentCard - Browser Opened...!
+12:45:33.708 [main] INFO  TestCreate_Booking_paymentCard - Login credentials are entered...!
+12:45:36.129 [main] INFO  TestCreate_Booking_paymentCard - Clicked on calendar button...!
+12:45:57.758 [main] INFO  TestCreate_Booking_paymentCard - Outlet selected...!
+12:46:16.373 [main] INFO  TestCreate_Booking_paymentCard - User information are entered...!
+12:46:22.321 [main] INFO  TestCreate_Booking_paymentCard - Clicked on create reservation button...!
+12:46:30.262 [main] INFO  TestCreate_Booking_paymentCard - Date selected for booking...!
+12:46:36.047 [main] INFO  TestCreate_Booking_paymentCard - Enable Package type plan selected for booking...!
+12:46:56.463 [main] INFO  TestCreate_Booking_paymentCard - Package and additional guests are selected...!
+12:47:01.988 [main] INFO  TestCreate_Booking_paymentCard - Clicked on proceed to pay button...!
+12:47:14.734 [main] INFO  TestCreate_Booking_paymentCard - Pay via Card option selected for payment...!
+12:47:33.379 [main] INFO  TestCreate_Booking_paymentCard - Card details entered successfully...!
+12:47:38.666 [main] INFO  TestCreate_Booking_paymentCard - Clicked on pay button...!
+12:47:47.729 [main] INFO  TestCreate_Booking_paymentCard - Clicked on refresh button to change the status...!
+12:47:53.116 [main] INFO  TestCreate_Booking_paymentCard - Clicked on Payment Received checkbox...!
+12:47:55.765 [main] INFO  TestCreate_Booking_paymentCard - Clicked on confirm button...!
+12:47:55.885 [main] INFO  TestCreate_Booking_paymentCard - Booking is successfull by Card payment...!
+12:47:56.494 [main] INFO  A_Base_Class - Browser closed...!
+12:48:06.159 [main] INFO  TestAdmin_EditDate - Browser opened...!
+12:48:19.040 [main] INFO  TestAdmin_EditDate - Login credentials are entered...!
+12:48:26.800 [main] INFO  TestAdmin_EditDate - Clicked on calendar button...!
+12:49:00.695 [main] INFO  TestAdmin_EditDate - Outlet selected...!
+12:49:19.236 [main] INFO  TestAdmin_EditDate - User information are entered...!
+12:49:26.660 [main] INFO  TestAdmin_EditDate - Clicked cell on calander...!
+12:49:34.922 [main] INFO  TestAdmin_EditDate - Date selected for booking...!
+12:49:41.063 [main] INFO  TestAdmin_EditDate - Enable Package type plan selected for booking...!
+12:50:01.554 [main] INFO  TestAdmin_EditDate - Package/Additional guests are selected...!
+12:50:06.964 [main] INFO  TestAdmin_EditDate - Clicked on proceed to pay button...!
+12:50:17.487 [main] INFO  TestAdmin_EditDate - Payment via cash option selected for payment...!
+12:50:29.876 [main] INFO  TestAdmin_EditDate - Clicked on payment received checkbox...!
+12:50:35.661 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+12:50:35.662 [main] INFO  TestAdmin_EditDate - Cash payment done successfully...!
+12:50:45.325 [main] INFO  TestAdmin_EditDate - Click on submit button...!
+12:50:48.352 [main] INFO  TestAdmin_EditDate - Booking created successfully...!
+12:50:57.963 [main] INFO  TestAdmin_EditDate - Clicked on Created booking to edit lane
+12:51:06.086 [main] INFO  TestAdmin_EditDate - Clicked on edit button...!
+12:51:15.230 [main] INFO  TestAdmin_EditDate - Clicked on Calender to select new date...!
+12:51:23.479 [main] INFO  TestAdmin_EditDate - Clicked on new date...!
+12:51:30.823 [main] INFO  TestAdmin_EditDate - Clicked on Update Booking Button...!
+12:51:38.187 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+12:51:42.876 [main] INFO  TestAdmin_EditDate - Click on submit Button...!
+12:51:42.877 [main] INFO  TestAdmin_EditDate - Booking Date updated successfully...!
+12:52:00.150 [main] INFO  TestAdmin_EditDate - User information are entered...!
+12:52:06.112 [main] INFO  TestAdmin_EditDate - Clicked on create reservation button...!
+12:52:11.939 [main] INFO  TestAdmin_EditDate - Date selected for booking...!
+12:52:17.712 [main] INFO  TestAdmin_EditDate - Enable Package type plan selected for booking...!
+12:52:37.452 [main] INFO  TestAdmin_EditDate - Package/Additional guests are selected...!
+12:52:42.814 [main] INFO  TestAdmin_EditDate - Clicked on proceed to pay button...!
+12:52:53.720 [main] INFO  TestAdmin_EditDate - Payment via cash option selected for payment...!
+12:53:06.022 [main] INFO  TestAdmin_EditDate - Clicked on payment received checkbox...!
+12:53:11.771 [main] INFO  TestAdmin_EditDate - Clicked on Confirm Button...!
+12:53:11.772 [main] INFO  TestAdmin_EditDate - Cash payment done successfully...!
+12:53:21.831 [main] INFO  TestAdmin_EditDate - Click on submit button...!
+12:53:22.193 [main] INFO  TestAdmin_EditDate - Booking created successfully on previous date...!
+12:53:22.832 [main] INFO  A_Base_Class - Browser closed...!
+12:53:40.540 [main] INFO  TestAdmin_Edit_ReservationSlot - Browser opened...!
+12:53:58.435 [main] INFO  TestAdmin_Edit_ReservationSlot - Login credentials are entered...!
+12:54:00.962 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on calendar button...!
+12:54:22.030 [main] INFO  TestAdmin_Edit_ReservationSlot - Outlet selected...!
+12:54:44.378 [main] INFO  TestAdmin_Edit_ReservationSlot - User information are entered...!
+12:54:50.197 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on create reservation button...!
+12:54:58.087 [main] INFO  TestAdmin_Edit_ReservationSlot - Date selected for booking...!
+12:55:04.238 [main] INFO  TestAdmin_Edit_ReservationSlot - Enable Package type plan selected for booking...!
+12:55:26.515 [main] INFO  TestAdmin_Edit_ReservationSlot - Package/Additional guests are selected...!
+12:55:31.931 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on proceed to pay button...!
+12:55:44.593 [main] INFO  TestAdmin_Edit_ReservationSlot - Pay via Card option selected for payment...!
+12:56:03.258 [main] INFO  TestAdmin_Edit_ReservationSlot - Card details entered successfully...!
+12:56:08.544 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on pay button...!
+12:56:16.345 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on refresh button to change the status...!
+12:56:21.710 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on Payment Received checkbox...!
+12:56:24.320 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on confirm button...!
+12:56:26.762 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on submit button...!
+12:56:31.771 [main] INFO  TestAdmin_Edit_ReservationSlot - Booking created successfully...!
+12:56:36.336 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on Created booking to edit reservation slot
+12:56:44.224 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on edit button...!
+12:56:53.486 [main] INFO  TestAdmin_Edit_ReservationSlot - Clicked on new reservation slot...!
+12:57:17.856 [main] INFO  A_Base_Class - Browser closed...!
+12:57:28.364 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Browser opened...!
+12:57:46.275 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Login credentials are entered...!
+12:57:49.009 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on calendar button...!
+13:15:35.326 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Browser opened...!
+13:15:54.052 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Login credentials are entered...!
+13:15:56.503 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on calendar button...!
+13:16:17.651 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Outlet selected...!
+13:16:40.067 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - User information are entered...!
+13:16:46.077 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on create reservation button...!
+13:16:54.056 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Date selected for booking...!
+13:17:02.184 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Enable Package type plan selected for booking...!
+13:17:20.819 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Package/Additional guests are selected...!
+13:17:26.256 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on proceed to pay button...!
+13:17:38.970 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Pay via Card option selected for payment...!
+13:17:57.933 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Card details entered successfully...!
+13:18:03.235 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on pay button...!
+13:18:10.708 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on refresh button to change the status...!
+13:18:13.056 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Payment Received check box...!
+13:18:18.734 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on confirm button...!
+13:18:23.291 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on submit button...!
+13:18:28.317 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Booking created successfully...!
+13:18:36.024 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Created booking to edit Addon
+13:18:43.995 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on edit button...!
+13:18:54.020 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on update addon button...!
+13:18:56.784 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Addon selected...!
+13:18:59.050 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on update booking button...!
+13:19:01.286 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Confirm Button...!
+13:19:09.615 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Card payment method selected for payment...!
+13:19:14.944 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Pay Via Save Card Option...!
+13:19:17.212 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on Pay button...!
+13:19:26.715 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on refresh button...!
+13:19:34.108 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Clicked on submit button...!
+13:19:34.504 [main] INFO  TestAdmin_EditAddon_with_Savecard_Info - Addon updated successfully...!
+13:19:35.364 [main] INFO  A_Base_Class - Browser closed...!
+13:19:46.610 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Browser opened...!
+13:20:05.134 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Login credentials are entered...!
+13:20:08.321 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on calendar button...!
+13:20:29.607 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Outlet selected...!
+13:20:54.191 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - User information are entered...!
+13:21:00.201 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on create reservation button...!
+13:21:08.228 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Date selected for booking...!
+13:21:14.162 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Enable Package type plan selected for booking...!
+13:21:34.124 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Package/Additional guests are selected...!
+13:21:39.533 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on proceed to pay button...!
+13:21:52.288 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Pay via Card option selected for payment...!
+13:22:11.249 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Card details entered successfully...!
+13:22:16.566 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on pay button...!
+13:22:25.134 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on refresh button to change the status...!
+13:22:27.514 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Payment Received checkbox...!
+13:22:33.187 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on confirm button...!
+13:22:35.660 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on submit button...!
+13:22:40.676 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Booking created successfully...!
+13:22:50.283 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Created booking to edit items
+13:22:58.248 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on edit button...!
+13:23:06.981 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Sale item selected...!
+13:23:09.348 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on update booking button...!
+13:23:11.974 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Confirm Button...!
+13:23:21.068 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Card payment method selected for payment...!
+13:23:31.335 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Pay Via Save Card Option...!
+13:23:34.572 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on Pay button...!
+13:23:44.730 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on refresh button...!
+13:23:52.047 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Clicked on submit button...!
+13:23:52.571 [main] INFO  TestAdmin_EditItem_with_Savecard_Info2 - Items updated successfully...!
+13:23:53.262 [main] INFO  A_Base_Class - Browser closed...!
+13:24:05.814 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Browser opened...!
+13:24:24.161 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Login credentials are entered...!
+13:24:26.873 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on calendar button...!
+13:24:48.026 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Outlet selected...!
+13:25:11.768 [main] INFO  TestAdmin_EditTime_CreateNewBooking - User information are entered...!
+13:25:28.322 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on 5 AM cell on calander...!
+13:25:39.653 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Date selected for booking...!
+13:25:43.446 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Per Hour type plan selected for booking...!
+13:25:56.144 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Hour/Guest/Items are selected...!
+13:26:01.556 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on proceed to pay button...!
+13:26:12.299 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Payment via cash option selected for payment...!
+13:26:24.673 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on payment received checkbox...!
+13:26:30.406 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+13:26:30.407 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Cash payment done successfully...!
+13:26:39.039 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Click on submit button...!
+13:26:44.054 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Booking created successfully...!
+13:26:53.752 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Created booking to edit time
+13:27:01.664 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on edit button...!
+13:27:28.935 [main] INFO  TestAdmin_EditTime_CreateNewBooking - New time selected for booking...!
+13:27:36.384 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Update Booking Button...!
+13:27:43.762 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+13:27:48.328 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Click on submit Button...!
+13:27:48.329 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Booking Time updated successfully...!
+13:27:54.526 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on refresh button...!
+13:28:20.354 [main] INFO  TestAdmin_EditTime_CreateNewBooking - User information are entered...!
+13:28:28.824 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on create reservation button...!
+13:28:37.202 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Previous time selected for booking...!
+13:28:55.415 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Hour/Guest/Items are selected...!
+13:29:00.776 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on proceed to pay button...!
+13:29:12.164 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Payment via cash option selected for payment...!
+13:29:24.456 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on payment received checkbox...!
+13:29:30.130 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Clicked on Confirm Button...!
+13:29:30.131 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Cash payment done successfully...!
+13:29:39.490 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Click on submit button...!
+13:29:40.000 [main] INFO  TestAdmin_EditTime_CreateNewBooking - Booking created on previous time successfully...!...!
+13:29:40.633 [main] INFO  A_Base_Class - Browser closed...!
+13:30:36.949 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Browser opened...!
+13:30:55.010 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Login credentials are entered...!
+13:31:04.385 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on calendar button...!
+13:31:25.505 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Outlet selected...!
+13:31:45.762 [main] INFO  TestAdmin_EditTime_UpdateSameTime - User information are entered...!
+13:32:02.205 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on 5 AM cell on calendar...!
+13:32:13.490 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Date selected for booking...!
+13:32:17.327 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Per Hour type plan selected for booking...!
+13:32:27.163 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Hour/Guest/Items are selected...!
+13:32:32.586 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on proceed to pay button...!
+13:32:42.316 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Payment via cash option selected for payment...!
+13:32:54.685 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on payment received check box...!
+13:33:00.431 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Confirm Button...!
+13:33:00.431 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Cash payment done successfully...!
+13:33:09.023 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Click on submit button...!
+13:33:14.039 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Booking created successfully...!
+13:33:18.659 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Created booking to edit time
+13:33:26.575 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on edit button...!
+13:33:41.478 [main] INFO  TestAdmin_EditTime_UpdateSameTime - New time selected for booking...!
+13:33:48.904 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Update Booking Button...!
+13:33:56.285 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Confirm Button...!
+13:34:01.201 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Click on submit Button...!
+13:34:01.202 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Booking Time updated successfully...!
+13:34:10.770 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Created booking to book free slot on same time
+13:34:18.575 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on edit button...!
+13:34:25.681 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Previous time selected to move the booking...!
+13:34:34.022 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Update Booking Button...!
+13:34:41.385 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Clicked on Confirm Button...!
+13:34:48.819 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Click on submit Button...!
+13:34:48.820 [main] INFO  TestAdmin_EditTime_UpdateSameTime - Successfully update the booking on previous time...!
+13:34:50.546 [main] INFO  A_Base_Class - Browser closed...!
+13:35:00.355 [main] INFO  TestAdmin_EditLane - Browser opened...!
+13:35:18.636 [main] INFO  TestAdmin_EditLane - Login credentials are entered...!
+13:35:24.635 [main] INFO  TestAdmin_EditLane - Clicked on calendar button...!
+13:35:45.786 [main] INFO  TestAdmin_EditLane - Outlet selected...!
+13:36:06.200 [main] INFO  TestAdmin_EditLane - User information are entered...!
+13:36:17.612 [main] INFO  TestAdmin_EditLane - Clicked cell on calander...!
+13:36:28.888 [main] INFO  TestAdmin_EditLane - Date selected for booking...!
+13:36:35.776 [main] INFO  TestAdmin_EditLane - Per Person type plan selected for booking...!
+13:36:45.215 [main] INFO  TestAdmin_EditLane - Person/Item are selected...!
+13:36:50.597 [main] INFO  TestAdmin_EditLane - Clicked on proceed to pay button...!
+13:37:00.392 [main] INFO  TestAdmin_EditLane - Payment via cash option selected for payment...!
+13:37:12.769 [main] INFO  TestAdmin_EditLane - Clicked on payment received checkbox...!
+13:37:18.509 [main] INFO  TestAdmin_EditLane - Clicked on Confirm Button...!
+13:37:18.509 [main] INFO  TestAdmin_EditLane - Cash payment done successfully...!
+13:37:27.699 [main] INFO  TestAdmin_EditLane - Click on submit button...!
+13:37:32.714 [main] INFO  TestAdmin_EditLane - Booking created successfully...!
+13:37:37.343 [main] INFO  TestAdmin_EditLane - Clicked on created booking to update the lane...!
+13:37:45.289 [main] INFO  TestAdmin_EditLane - Clicked on edit button...!
+13:37:54.817 [main] INFO  TestAdmin_EditLane - Default selected lane unClicked...!
+13:38:40.907 [main] INFO  A_Base_Class - Browser closed...!
